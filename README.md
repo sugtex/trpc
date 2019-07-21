@@ -1,9 +1,12 @@
 # trpc
-基于Tcp协议实现的RPC路由机制并与Unity3D实现跨语言调试成功
+基于Tcp协议实现的RPC路由机制并与Unity3D调试成功
 ## tip
 测试demo
 ## contact
-与Unity3D测试成功，项目在github.com/CatBluePoor/Utrpc.git
+与Unity3D跨语言测试成功，项目在
+```
+github.com/CatBluePoor/Utrpc.git。
+```
 ## content
 ```
 1.采用Socket进行基于TCP协议的网络通讯
