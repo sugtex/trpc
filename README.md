@@ -3,7 +3,7 @@
 ## tip
 测试demo
 ## contact
-与Unity3D跨语言测试成功，项目在
+与Unity3D客户端跨语言连接并测试成功，项目在
 ```
 github.com/CatBluePoor/Utrpc.git。
 ```
