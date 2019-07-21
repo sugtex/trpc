@@ -5,7 +5,7 @@
 ## contact
 与Unity3D客户端跨语言连接并测试成功，项目在
 ```
-github.com/CatBluePoor/Utrpc.git。
+github.com/CatBluePoor/Utrpc.git
 ```
 ## content
 ```
